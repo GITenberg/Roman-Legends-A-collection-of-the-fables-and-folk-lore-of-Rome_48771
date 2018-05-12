@@ -1,4 +1,8 @@
 _repo: Roman-Legends-A-collection-of-the-fables-and-folk-lore-of-Rome_48771
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48771-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Busk, Rachel Harriette
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '40608'
     url: http://www.gutenberg.org/2009/agents/40608
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48771#Roman-Legends-A-collection-of-the-fables-and-folk-lore-of-Rome
 gutenberg_issued: '2015-04-23'
 gutenberg_type: Text
 identifiers:
